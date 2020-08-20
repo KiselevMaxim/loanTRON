@@ -1,0 +1,1 @@
+tronbox migrate --reset --compile-all --network shasta
